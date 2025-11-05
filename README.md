@@ -57,5 +57,5 @@ cd dospe-merger
 ### 2.Execution 
 After navigating to repo folder 
 ```bash
-python dospe-merger.py
+python dospe_merger.py
 ```
