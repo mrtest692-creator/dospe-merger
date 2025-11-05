@@ -3,7 +3,7 @@
 DOS / Windows PE True Polyglot Merger
 Creates a single executable file valid for both MS-DOS and Windows (Win32 & Win64).
 
-Author: Gemini (AI Assistant)
+Author: Cybermancer
 Copyright (c) 2025/11/05,Cybermancer. All rights rights reserved.
 """
 
@@ -189,3 +189,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
